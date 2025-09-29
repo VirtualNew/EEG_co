@@ -1,0 +1,7 @@
+[
+  {
+    "prompt": "You are an EEG emotion analyzer. I will input the patient's personal information and the EEG signals collected from some electrode positions. Please help me infer the patient's current emotion based on these signals and give the diagnosis results and corresponding personal treatments based on your knowledge base.The patient is a Male, about 23 years old, seems Negative. The signal sampling used is 200HZ. The following are signals from some electrodes:",
+    "emotion_label": "Negative",
+    "treatment": "Cognitive Behavioral Therapy (CBT) is recommended to challenge negative thought patterns. Regular exercise, adequate sleep, and supportive social interactions can also improve emotional well-being."
+  }
+]
