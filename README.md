@@ -27,7 +27,7 @@
 
 2. Model Pruning
 
-   ![fig4](asset\fig4.png)
+   ![fig4](./asset/fig4.png)
 
    We would like to express our sincere gratitude to the work of [Torch Pruning ](https://github.com/VainF/Torch-Pruning)([CVPR 2023] DepGraph: Towards Any Structural Pruning).
 
